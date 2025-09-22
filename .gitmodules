@@ -1,0 +1,3 @@
+[submodule "task2/md5"]
+	path = task2/md5
+	url = https://github.com/vishal6969/MD5-hash-Calculator
